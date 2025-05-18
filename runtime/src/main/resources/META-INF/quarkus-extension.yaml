@@ -1,0 +1,14 @@
+name: Scoped Cache Extension
+description: A CDI-scoped cache extension using Caffeine, supporting custom per-method cache lifecycles.
+version: 1.0.0
+metadata:
+  keywords:
+    - cache
+    - caffeine
+    - CDI
+    - quarkus-extension
+    - scoped-cache
+  guide: https://github.com/anieruddha/quarkus-scope-cache-extension#readme
+  categories:
+    - core
+  status: preview
