@@ -8,7 +8,7 @@ metadata:
     - CDI
     - quarkus-extension
     - scoped-cache
-  guide: https://github.com/anieruddha/quarkus-scope-cache-extension#readme
+  guide: https://github.com/anieruddha/scoped-cache-extension#readme
   categories:
     - core
   status: preview
